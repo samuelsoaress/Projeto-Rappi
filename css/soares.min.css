@@ -1,0 +1,34 @@
+
+
+.container-grid-partner {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 250px);
+    grid-gap: 5px;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.pt {
+    padding-top: 135px;
+}
+
+.item-grid-partner {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+}
+
+.item-grid-partner img {
+    max-width: 100%;
+}
+
+.item-grid-partner.w8 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item-grid-partner.w8 img {
+    margin: 0 auto;
+    max-width: 150px;
+}
