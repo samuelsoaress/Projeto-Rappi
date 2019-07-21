@@ -313,7 +313,7 @@ section {
     z-index: -1;
     right: 0;
     bottom: 0;
-    background-image: url("../imgs/fondo-circulo.png");
+    background-image: url("../img/fondo-circulo.png");
     background-size: cover; }
 
 .section-bg {
